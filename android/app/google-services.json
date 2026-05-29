@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968414890893",
+    "project_id": "codex-fashion",
+    "storage_bucket": "codex-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968414890893:android:b55467d4f8bd2483090bc4",
+        "android_client_info": {
+          "package_name": "com.example.cost_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sKtmx4poXldGuBvX32kprtAwavMO5Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
